@@ -1,4 +1,4 @@
-#  Decoding the AI Super-Cycle: NVIDIA ($NVDA)
+#  Decoding the AI Super-Cycle: NVIDIA (NVDA)
 
 A quantitative machine learning analysis of NVIDIA's market dynamics during the AI super-cycle, exploring the limits of algorithmic forecasting using real-time data, trailing volatility, and predictive modeling.
 
